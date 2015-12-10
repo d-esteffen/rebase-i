@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11156440-201f-498f-8c47-88749c6a1929" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/file1.txt" afterPath="$PROJECT_DIR$/test/file1.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rebase-i.iws" />
@@ -26,6 +25,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -214,13 +216,16 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="11156440-201f-498f-8c47-88749c6a1929" name="Default" comment="" />
       <created>1449747619042</created>
       <option name="number" value="Default" />
       <updated>1449747619042</updated>
-      <workItem from="1449747626024" duration="1189000" />
+      <workItem from="1449747626024" duration="1505000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1449748531025</created>
@@ -256,7 +261,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1189000" />
+    <option name="totallyTimeSpent" value="1505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="740" extended-state="0" />
