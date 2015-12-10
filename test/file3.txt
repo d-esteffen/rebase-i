@@ -2,6 +2,6 @@ Ty 1
 Ty 2
 Ty 3
 TD 4
-Ty 7
+Ty 7 - Derlis
 TD 6
-Ty 7
+Ty 7 - Derlis
